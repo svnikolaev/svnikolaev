@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
 
-[LinkedIn](https://www.linkedin.com/in/svnikolaev)
+#### Here is my [LinkedIn](https://www.linkedin.com/in/svnikolaev)
 
 [![codewars](https://www.codewars.com/users/svnikolaev/badges/small)](https://www.codewars.com/users/svnikolaev) 
 
